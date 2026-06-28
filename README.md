@@ -2,7 +2,7 @@
 
 ## Acceder à la lettre
 La lettre est accessible ici : 
-[Voir la lettre en ligne]()
+[Voir la lettre en ligne](https://alexandraolharan.github.io/Lettre-de-motivation-alternance/)
 
 ## Le contenu
 - Ma présentation
